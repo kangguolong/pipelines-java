@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Peterkang0595/PlayGround/_apis/build/status/kangguolong.pipelines-java?branchName=master)](https://dev.azure.com/Peterkang0595/PlayGround/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
